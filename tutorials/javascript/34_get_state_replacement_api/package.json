@@ -13,7 +13,7 @@
     "dependencies": {
         "bootstrap": "^4.1.0",
         "@hiveio/dhive": "^0.14.12",
-        "koa": "^2.5.0",
+        "koa": "^3.0.1",
         "koa-static": "^4.0.2",
         "remarkable": "^1.7.1"
     },
